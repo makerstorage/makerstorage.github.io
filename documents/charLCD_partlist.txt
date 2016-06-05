@@ -1,0 +1,21 @@
+Partlist
+
+Exported from charLCD.sch at 05.06.2016 10:26:32
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value             Device                 Package        Library                    Sheet
+
+IC1      PCF8574T          PCF8574T               SO16W          micro-philips              1
+Q1       PMBT3906 or bc327 TRANSISTOR_PNPPMBT3906 SOT23-3        SparkFun-DiscreteSemi      1
+R2       1k                0.22OHM-1/4W-1%(0805)  0805           SparkFun-Resistors         1
+R3       10ohm             0.22OHM-1/4W-1%(0805)  0805           SparkFun-Resistors         1
+R4       10k               TRIMPOT                TRIMPOT-5MM-V2 SparkFun-Electromechanical 1
+SJ1                        SJ                     SJ             jumper                     1
+SJ2                        SJ                     SJ             jumper                     1
+SJ3                        SJ                     SJ             jumper                     1
+U1       LCD-16X2SILK      LCD-16X2SILK           LCD-16X2       SparkFun-Displays          1
+X1                         90-5                   90-5           con-weidmueller-sl35       1
+X2                         90-5                   90-5           con-weidmueller-sl35       1

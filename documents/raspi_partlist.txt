@@ -1,0 +1,19 @@
+Partlist
+
+Exported from raspi.sch at 05.06.2016 14:16:54
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value               Device              Package       Library              Sheet
+
+C1       0.1uF               CAP0603-CAP         0603-CAP      SparkFun             1
+JP3      RASPBERRYPI-B+-GPIO RASPBERRYPI-B+-GPIO 2X20-SHROUDED SparkFun-Boards      1
+R1       1k                  RESISTOR0603-RES    0603-RES      SparkFun             1
+R2       1k                  RESISTOR0603-RES    0603-RES      SparkFun             1
+R3       200k                RESISTOR0603-RES    0603-RES      SparkFun             1
+R4       1k                  RESISTOR0603-RES    0603-RES      SparkFun             1
+R5       1k                  RESISTOR0603-RES    0603-RES      SparkFun             1
+U$1                          PCA9306             PSOP-8        SparkFun-DigitalIC   1
+X5                           90-5                90-5          con-weidmueller-sl35 1

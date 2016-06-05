@@ -1,0 +1,35 @@
+Partlist
+
+Exported from processor.sch at 05.06.2016 14:06:04
+
+EAGLE Version 6.0.0 Copyright (c) 1988-2011 CadSoft
+
+Assembly variant: 
+
+Part     Value                            Device                           Package            Library               Sheet
+
+C2       0.1uF                            CAP0603-CAP                      0603-CAP           SparkFun              1
+C4       0.1uF                            CAP0603-CAP                      0603-CAP           SparkFun              1
+C5       0.1uF                            CAP0603-CAP                      0603-CAP           SparkFun              1
+C8       0.1uF                            CAP0603-CAP                      0603-CAP           SparkFun              1
+J2       ICSP                             AVR_SPI_PRG_6PTH                 2X3                SparkFun-Connectors   1
+JP2                                       PINHD-1X4                        1X04               pinhead               1
+LED1     Blue                             LED1206-NS                       LED-1206-NO_SILK   SparkFun-LED          1
+LED2     Blue                             LED1206-NS                       LED-1206-NO_SILK   SparkFun-LED          1
+LED3     Blue                             LED1206-NS                       LED-1206-NO_SILK   SparkFun-LED          1
+R1       1k                               RESISTOR0603-RES                 0603-RES           SparkFun              1
+R2       1k                               RESISTOR0603-RES                 0603-RES           SparkFun              1
+R3       10k                              RESISTOR0603-RES                 0603-RES           SparkFun              1
+R4       1k                               RESISTOR0603-RES                 0603-RES           SparkFun              1
+R5       1k                               RESISTOR0603-RES                 0603-RES           SparkFun              1
+R6       1k                               RESISTOR0603-RES                 0603-RES           SparkFun              1
+S1       RESET                            TAC_SWITCHSMD                    TACTILE_SWITCH_SMD SparkFun              1
+U$1      CH340G                           CH340G                           SOIC16             usb-serial            1
+U3       ATMEGA328                        ATMEGA168                        TQFP32-08          SparkFun              1
+X1                                        90-5                             90-5               con-weidmueller-sl35  1
+X2                                        90-5                             90-5               con-weidmueller-sl35  1
+X4       MINI-USB_SHIELD4P-85-32004-30X-1 MINI-USB_SHIELD4P-85-32004-30X-1 85-32004-30X-1     con-cypressindustries 1
+X5                                        90-5                             90-5               con-weidmueller-sl35  1
+X6                                        90-5                             90-5               con-weidmueller-sl35  1
+Y1       16MHz                            RESONATORSMD                     RESONATOR-SMD      SparkFun-FreqCtrl     1
+Y2       12MHz                            RESONATORSMD                     RESONATOR-SMD      SparkFun-FreqCtrl     1

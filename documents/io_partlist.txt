@@ -1,0 +1,32 @@
+Partlist
+
+Exported from io.sch at 05.06.2016 11:18:03
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device           Package            Library              Sheet
+
+IC1      PCF8574T       PCF8574T         SO16W              micro-philips        1
+LED2     PB3XX301V050A  PB3XX301V050A    PB3XX301V050A      led                  1
+R1       10k            RESISTOR0805-RES 0805               SparkFun-Resistors   1
+R2       470ohm         RESISTOR0805-RES 0805               SparkFun-Resistors   1
+R3       470ohm         RESISTOR0805-RES 0805               SparkFun-Resistors   1
+R4       470ohm         RESISTOR0805-RES 0805               SparkFun-Resistors   1
+R5       10k            RESISTOR0805-RES 0805               SparkFun-Resistors   1
+R6       10k            RESISTOR0805-RES 0805               SparkFun-Resistors   1
+R7       10k            RESISTOR0805-RES 0805               SparkFun-Resistors   1
+R8       10k            RESISTOR0805-RES 0805               SparkFun-Resistors   1
+S2       TAC_SWITCHSMD  TAC_SWITCHSMD    TACTILE-SWITCH-SMD SparkFun-Retired     1
+S3       TAC_SWITCHSMD  TAC_SWITCHSMD    TACTILE-SWITCH-SMD SparkFun-Retired     1
+S4       TAC_SWITCHSMD  TAC_SWITCHSMD    TACTILE-SWITCH-SMD SparkFun-Retired     1
+S5       TAC_SWITCHSMD  TAC_SWITCHSMD    TACTILE-SWITCH-SMD SparkFun-Retired     1
+S6       TAC_SWITCHSMD  TAC_SWITCHSMD    TACTILE-SWITCH-SMD SparkFun-Retired     1
+SJ1                     SJ               SJ                 jumper               1
+SJ2                     SJ               SJ                 jumper               1
+SJ3                     SJ               SJ                 jumper               1
+X1                      90-5             90-5               con-weidmueller-sl35 1
+X2                      90-5             90-5               con-weidmueller-sl35 1
+X5                      90-5             90-5               con-weidmueller-sl35 1
+X6                      90-5             90-5               con-weidmueller-sl35 1

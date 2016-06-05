@@ -1,0 +1,30 @@
+Partlist
+
+Exported from sensor.sch at 05.06.2016 14:20:33
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device             Package  Library              Sheet
+
+C1       0.1uF          CAP0603-CAP        0603-CAP SparkFun-Capacitors  1
+C5       0.1uF          CAP0603-CAP        0603-CAP SparkFun             1
+C6       0.1uF          CAP0603-CAP        0603-CAP SparkFun             1
+C7       0.1uF          CAP0603-CAP        0603-CAP SparkFun             1
+C8       1uF            CAP0603-CAP        0603-CAP SparkFun             1
+Q1       BSS138         MOSFET-NCHANNELSMD SOT23-3  SparkFun             1
+Q2       BSS138         MOSFET-NCHANNELSMD SOT23-3  SparkFun             1
+R1       10K            RESISTOR0603       0603-RES SparkFun-Resistors   1
+R2       4.7K           RESISTOR0603-RES   0603-RES SparkFun             1
+R3       4.7K           RESISTOR0603-RES   0603-RES SparkFun             1
+R4       4.7K           RESISTOR0603-RES   0603-RES SparkFun             1
+R5       4.7K           RESISTOR0603-RES   0603-RES SparkFun             1
+SJ2                     SOLDERJUMPER_2WAYS SJ_3     mike-temp            1
+U1       TSL2561FN      TSL2561FN          FN-6     mike-temp            1
+U4       MPL3115A2LGA8  MPL3115A2LGA8      LGA8     SparkFun-Sensors     1
+U5       HTU21D         HTU21DSMD          HTU21D   SparkFun-Sensors     1
+X1                      90-5               90-5     con-weidmueller-sl35 1
+X2                      90-5               90-5     con-weidmueller-sl35 1
+X5                      90-5               90-5     con-weidmueller-sl35 1
+X6                      90-5               90-5     con-weidmueller-sl35 1
