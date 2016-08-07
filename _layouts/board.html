@@ -11,8 +11,15 @@ layout: default
   <article class="post-content">
     
 
-    <b>Schematics:</b>
-    <img src="/documents/{{page.image}}" >
+<table>
+  <tr>
+    <th><img src="/images/{{page.image}}" ></th>
+    <th></th>
+  </tr>
+</table>
+
+   
+    
 
     <br>
     <br>
@@ -24,7 +31,17 @@ layout: default
     {{ content }}
    
     
-  
+   
+    <br>
+    <b>More Info:</b><br>
+    <ul>
+      <li><a href="{{page.book}}">Documentation</a></li>
+      <li><a href="/documents/{{page.schematic}}">Schematics</a></li>
+      
+      <li><a href="/documents/{{page.partlist}}">Part List</a></li>
+      <li><a href="/documents/{{page.eagleFiles}}">Download Eagle Files</a></li>
+     </ul>
+
     <br>
     
     <b>Tags:</b>
@@ -39,15 +56,7 @@ layout: default
 
    
     
-    
-    <br>
-    <b>Documents:</b><br>
-    <ul>
-      <li><a href="/documents/{{page.schematic}}">Schematics</a></li>
-      
-      <li><a href="/documents/{{page.partlist}}">Part List</a></li>
-      <li><a href="/documents/{{page.eagleFiles}}">Download Eagle Files</a></li>
-  	 </ul>
+   
 
 	
 

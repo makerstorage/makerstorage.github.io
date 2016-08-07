@@ -1,7 +1,8 @@
 ---
 layout: board
 schematic: power.pdf
-image: power_image.png
+book: https://nerginer.gitbooks.io/schoolbus/content/power_board.html
+image: power_photo.jpg
 title : Power Board
 category : Power
 partlist: power_partlist.txt

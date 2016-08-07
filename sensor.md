@@ -1,7 +1,8 @@
 ---
 layout: board
 schematic: sensor.pdf
-image: sensor_image.png
+book: https://nerginer.gitbooks.io/schoolbus/content/sensor_board.html
+image: sensor_photo.jpg
 title : Sensor Board
 category : Sensors
 partlist: sensor_partlist.txt

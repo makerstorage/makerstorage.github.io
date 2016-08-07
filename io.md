@@ -1,7 +1,8 @@
 ---
 layout: board
 schematic: io.pdf
-image: io_image.png
+book: https://nerginer.gitbooks.io/schoolbus/content/gpio_board.html
+image: Gpio_photo.jpg
 title : GPIO Board
 category : I/O
 partlist: io_partlist.txt
